@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+    <!-- start driver -->
+    <node pkg="weiss_gripper_ieg76" type="driver.py" name="weiss_gripper_ieg76_driver" output="screen">
+        <param name="serial_port_address" value="/dev/ttyACM0"/>
+    </node>
+</launch>

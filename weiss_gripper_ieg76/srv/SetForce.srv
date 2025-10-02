@@ -1,0 +1,4 @@
+uint8 grasping_force # in percentage (0..100)
+---
+bool success
+string message

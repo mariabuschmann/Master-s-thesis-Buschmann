@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="ieg55_adapter">
+
+    <xacro:macro name="ieg55_adapter" params="parent prefix *origin">
+
+        <!-- mount the adapter to the robot -->
+        <joint name="${prefix}robotside_joint" type="fixed">
+            <xacro:insert_block name="origin"/>
+            <parent link="${parent}"/>
+            <child link="${prefix}robotside"/>
+        </joint>
+
+        <link name="${prefix}robotside">
+            <visual>
+                <origin xyz="0 0 0.005" rpy="0 0 0"/>
+                <geometry>
+                    <box size="0.055 0.041 0.01"/>
+                </geometry>
+                <material name="metal">
+                  <color rgba="0.2 0.2 0.2 1.0"/>
+                </material>
+            </visual>
+            <collision>
+                <origin xyz="0 0 0.005" rpy="0 0 0"/>
+                <geometry>
+                    <box size="0.055 0.041 0.01"/>
+                </geometry>
+            </collision>
+        </link>
+
+        <joint name="${prefix}toolside_joint" type="fixed" >
+          <origin xyz="0 0 0.01" rpy="0 0 0"/>
+          <parent link="${prefix}robotside" />
+          <child link="${prefix}toolside" />
+        </joint>
+
+        <link name="${prefix}toolside"/>
+
+    </xacro:macro>
+
+</robot>

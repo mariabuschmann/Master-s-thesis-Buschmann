@@ -1,0 +1,6 @@
+float32 position
+bool relative        # (wenn du relative Bewegung brauchst)
+uint8 speed          # <--- NEU: Öffnungsgeschwindigkeit in Prozent
+---
+bool success
+string message
