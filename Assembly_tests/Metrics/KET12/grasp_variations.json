@@ -1,0 +1,197 @@
+[
+  {
+    "name": "baseline",
+    "position_offset": [0.0, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_1",
+    "position_offset": [0.001, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_2",
+    "position_offset": [0.002, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_3",
+    "position_offset": [0.003, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_4",
+    "position_offset": [0.004, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_5",
+    "position_offset": [0.005, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_6",
+    "position_offset": [0.006, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_7",
+    "position_offset": [0.007, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_8",
+    "position_offset": [0.008, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_9",
+    "position_offset": [0.009, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_10",
+    "position_offset": [0.01, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_minus_1",
+    "position_offset": [-0.001, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_minus_2",
+    "position_offset": [-0.002, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_minus_3",
+    "position_offset": [-0.003, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_minus_4",
+    "position_offset": [-0.004, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_minus_5",
+    "position_offset": [-0.005, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_minus_6",
+    "position_offset": [-0.006, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_minus_7",
+    "position_offset": [-0.007, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_minus_8",
+    "position_offset": [-0.008, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_minus_9",
+    "position_offset": [-0.009, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_minus_10",
+    "position_offset": [-0.01, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "y_plus_1",
+    "position_offset": [0.0, 0.001, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "y_plus_2",
+    "position_offset": [0.0, 0.002, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "y_plus_3",
+    "position_offset": [0.0, 0.003, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "y_minus_1",
+    "position_offset": [-0.0, -0.001, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "y_minus_2",
+    "position_offset": [-0.0, -0.002, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "y_minus_3",
+    "position_offset": [-0.0, -0.003, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "z_plus_5",
+    "position_offset": [0.0, 0.0, 0.005],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "z_plus_10",
+    "position_offset": [0.0, 0.0, 0.01],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "z_plus_15",
+    "position_offset": [0.0, 0.0, 0.015],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "z_plus_20",
+    "position_offset": [0.0, 0.0, 0.02],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "z_rot_plus_10",
+    "position_offset": [0.0, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 10]
+  },
+  {
+    "name": "z_rot_plus_20",
+    "position_offset": [0.0, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 20]
+  },
+  {
+    "name": "z_rot_plus_30",
+    "position_offset": [0.0, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 30]
+  },
+  {
+    "name": "z_rot_plus_40",
+    "position_offset": [0.0, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 40]
+  },
+  {
+    "name": "z_rot_minus_10",
+    "position_offset": [0.0, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, -10]
+  },
+  {
+    "name": "z_rot_minus_20",
+    "position_offset": [0.0, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, -20]
+  },
+  {
+    "name": "z_rot_minus_30",
+    "position_offset": [0.0, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, -30]
+  },
+  {
+    "name": "z_rot_minus_40",
+    "position_offset": [0.0, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, -40]
+  }
+]

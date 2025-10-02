@@ -1,0 +1,88 @@
+[
+  {
+    "name": "baseline",
+    "position_offset": [0.0, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_1",
+    "position_offset": [0.001, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_2",
+    "position_offset": [0.002, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_3",
+    "position_offset": [0.003, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_4",
+    "position_offset": [0.004, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_5",
+    "position_offset": [0.005, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_6",
+    "position_offset": [0.006, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_7",
+    "position_offset": [0.007, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_plus_8",
+    "position_offset": [0.008, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+ 
+  {
+    "name": "x_minus_1",
+    "position_offset": [-0.001, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_minus_2",
+    "position_offset": [-0.002, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_minus_3",
+    "position_offset": [-0.003, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_minus_4",
+    "position_offset": [-0.004, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_minus_5",
+    "position_offset": [-0.005, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_minus_6",
+    "position_offset": [-0.006, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_minus_7",
+    "position_offset": [-0.007, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  },
+  {
+    "name": "x_minus_8",
+    "position_offset": [-0.008, 0.0, 0.0],
+    "orientation_offset_deg": [0, 0, 0]
+  }
+]
